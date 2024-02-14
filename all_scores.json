@@ -1,0 +1,141 @@
+{
+  "cricket": {
+    "fixture_57047": {
+      "id": 57047,
+      "league_id": 9,
+      "localteam": {
+        "team_id": 23,
+        "name": "Comilla Victorians",
+        "image": "23.png",
+        "short_code": "CV"
+      },
+      "visitorteam": {
+        "team_id": 25,
+        "name": "Khulna Tigers",
+        "image": "25.png",
+        "short_code": "KT"
+      },
+      "winnerteam": "TBD",
+      "winner_team_id": null,
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 149,
+            "over": 20,
+            "wicket": 7,
+            "scoreboard": "S1",
+            "is_latest": 0
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 11,
+            "over": 1,
+            "wicket": 0,
+            "scoreboard": "S2",
+            "is_latest": 1
+          }
+        ]
+      },
+      "starting_at": 1707291000,
+      "status": "Live",
+      "note": "Target 150 runs",
+      "round": "23rd Match",
+      "match_status": "23rd Match",
+      "total_overs_played": "20",
+      "match_type": "T20"
+    }
+  },
+  "soccer": {
+    "fixture_18898152": {
+      "localteam": {
+        "team_id": 1,
+        "name": "Local Team",
+        "image": "local_team_image_url",
+        "short_code": "LT"
+      },
+      "visitorteam": {
+        "team_id": 2,
+        "name": "Visitor Team",
+        "image": "visitor_team_image_url",
+        "short_code": "VT"
+      },
+      "match_status": "Live",
+      "note": "Exciting match in progress",
+      "id": 18898152,
+      "status": "In Progress",
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 120,
+            "over": 15.2,
+            "scoreboard": "120/3",
+            "is_latest": 1,
+            "wicket": 3
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 80,
+            "over": 10.5,
+            "scoreboard": "80/2",
+            "is_latest": 0,
+            "wicket": 2
+          }
+        ]
+      },
+      "total_overs_played": "15.2",
+      "winner_team_id": null,
+      "league_id": 456,
+      "winnerteam": "",
+      "starting_at": 1678872000,
+      "match_type": "ODI",
+      "round": "Group Stage"
+    },
+    "fixture_19023706": {
+      "localteam": {
+        "team_id": 1,
+        "name": "Local Team",
+        "image": "local_team_image_url",
+        "short_code": "LT"
+      },
+      "visitorteam": {
+        "team_id": 2,
+        "name": "Visitor Team",
+        "image": "visitor_team_image_url",
+        "short_code": "VT"
+      },
+      "match_status": "Live",
+      "note": "Exciting match in progress",
+      "id": 19023706,
+      "status": "In Progress",
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 120,
+            "over": 15.2,
+            "scoreboard": "120/3",
+            "is_latest": 1,
+            "wicket": 3
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 80,
+            "over": 10.5,
+            "scoreboard": "80/2",
+            "is_latest": 0,
+            "wicket": 2
+          }
+        ]
+      },
+      "total_overs_played": "15.2",
+      "winner_team_id": null,
+      "league_id": 456,
+      "winnerteam": "",
+      "starting_at": 1678872000,
+      "match_type": "ODI",
+      "round": "Group Stage"
+    }
+  }
+}
