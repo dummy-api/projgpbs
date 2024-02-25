@@ -1,0 +1,1026 @@
+{
+  "data": [
+    {
+      "category": "breaking",
+      "category_title": "Mock Breaking News",
+      "items": [
+        {
+          "title": "Bangladesh, Turkey to work together to combat disinformation: Arafat",
+          "description": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-turkey-work-together-combat-disinformation-arafat-3551741",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-turkey-work-together-combat-disinformation-arafat-3551741",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2024/02/24/Arafat-Turkey.jpg",
+          "pubDate": "2024-02-25T10:11:32+06:00",
+          "pubDateUnix": "1708834292",
+          "copyright": "Daily Star",
+          "news_id": "c96870341cc5eedde8cbc2a65c9d43a7",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 27 minutes ago"
+        },
+        {
+          "title": "US, UK launch new wave of strikes against Yemen's Huthis",
+          "description": "https://www.thedailystar.net/news/world/news/us-uk-launch-new-wave-strikes-against-yemens-huthis-3552226",
+          "url": "https://www.thedailystar.net/news/world/news/us-uk-launch-new-wave-strikes-against-yemens-huthis-3552226",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/yemen.jpg",
+          "pubDate": "2024-02-25T09:30:12+06:00",
+          "pubDateUnix": "1708831812",
+          "copyright": "Daily Star",
+          "news_id": "95381f611698bc028d0a5ce81f98dcf9",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 1 hour ago"
+        },
+        {
+          "title": "Trump wins South Carolina, swamping Haley in her home state",
+          "description": "https://www.thedailystar.net/news/world/usa/news/trump-wins-south-carolina-swamping-haley-her-home-state-3552221",
+          "url": "https://www.thedailystar.net/news/world/usa/news/trump-wins-south-carolina-swamping-haley-her-home-state-3552221",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/trump.jpg",
+          "pubDate": "2024-02-25T09:03:56+06:00",
+          "pubDateUnix": "1708830236",
+          "copyright": "Daily Star",
+          "news_id": "d862a945297fead722b69f6eb41e5c90",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 1 hour ago"
+        },
+        {
+          "title": "Record job vacancies hurt govt services",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/record-job-vacancies-hurt-govt-services-3551871",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/record-job-vacancies-hurt-govt-services-3551871",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/record.jpg",
+          "pubDate": "2024-02-25T04:09:39+06:00",
+          "pubDateUnix": "1708812579",
+          "copyright": "Daily Star",
+          "news_id": "223846dd7a66d61e25e0d40ccd97cebb",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 6 hours ago"
+        },
+        {
+          "title": "Loan default now part of business model",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/loan-default-now-part-business-model-3551881",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/loan-default-now-part-business-model-3551881",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/rehman_sbhan.jpg",
+          "pubDate": "2024-02-25T04:03:37+06:00",
+          "pubDateUnix": "1708812217",
+          "copyright": "Daily Star",
+          "news_id": "03866f2e09271dbb5396fe4616d4f715",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 6 hours ago"
+        },
+        {
+          "title": "Myanmar trying to wage war against Bangladesh: Rab DG",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/myanmar-trying-wage-war-against-bangladesh-rab-dg-3552066",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/myanmar-trying-wage-war-against-bangladesh-rab-dg-3552066",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/19201080_frame76.jpg",
+          "pubDate": "2024-02-25T03:15:30+06:00",
+          "pubDateUnix": "1708809330",
+          "copyright": "Daily Star",
+          "news_id": "215e804aa9ec65a3e29e0496c7821c9c",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 7 hours ago"
+        },
+        {
+          "title": "Keep reaching for the stars",
+          "description": "https://www.thedailystar.net/supplements-0/news/keep-reaching-the-stars-3552041",
+          "url": "https://www.thedailystar.net/supplements-0/news/keep-reaching-the-stars-3552041",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/o-lavel-awards.jpg",
+          "pubDate": "2024-02-25T01:38:33+06:00",
+          "pubDateUnix": "1708803513",
+          "copyright": "Daily Star",
+          "news_id": "263bd84c3dce67ab51c95ab7acdced9c",
+          "source": "daily_star",
+          "is_breaking": "1",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 9 hours ago"
+        }
+      ],
+      "total": 7,
+      "page": 1
+    },
+    {
+      "category": "home",
+      "category_title": "Top News",
+      "items": [
+        {
+          "title": "Bangladesh, Turkey to work together to combat disinformation: Arafat",
+          "description": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-turkey-work-together-combat-disinformation-arafat-3551741",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-turkey-work-together-combat-disinformation-arafat-3551741",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2024/02/24/Arafat-Turkey.jpg",
+          "pubDate": "2024-02-25T10:11:32+06:00",
+          "pubDateUnix": "1708834292",
+          "copyright": "Daily Star",
+          "news_id": "c96870341cc5eedde8cbc2a65c9d43a7",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "US, UK launch new wave of strikes against Yemen's Huthis",
+          "description": "https://www.thedailystar.net/news/world/news/us-uk-launch-new-wave-strikes-against-yemens-huthis-3552226",
+          "url": "https://www.thedailystar.net/news/world/news/us-uk-launch-new-wave-strikes-against-yemens-huthis-3552226",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/yemen.jpg",
+          "pubDate": "2024-02-25T09:30:12+06:00",
+          "pubDateUnix": "1708831812",
+          "copyright": "Daily Star",
+          "news_id": "95381f611698bc028d0a5ce81f98dcf9",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Trump wins South Carolina, swamping Haley in her home state",
+          "description": "https://www.thedailystar.net/news/world/usa/news/trump-wins-south-carolina-swamping-haley-her-home-state-3552221",
+          "url": "https://www.thedailystar.net/news/world/usa/news/trump-wins-south-carolina-swamping-haley-her-home-state-3552221",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/trump.jpg",
+          "pubDate": "2024-02-25T09:03:56+06:00",
+          "pubDateUnix": "1708830236",
+          "copyright": "Daily Star",
+          "news_id": "d862a945297fead722b69f6eb41e5c90",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Record job vacancies hurt govt services",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/record-job-vacancies-hurt-govt-services-3551871",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/record-job-vacancies-hurt-govt-services-3551871",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/record.jpg",
+          "pubDate": "2024-02-25T04:09:39+06:00",
+          "pubDateUnix": "1708812579",
+          "copyright": "Daily Star",
+          "news_id": "223846dd7a66d61e25e0d40ccd97cebb",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Loan default now part of business model",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/loan-default-now-part-business-model-3551881",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/loan-default-now-part-business-model-3551881",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/rehman_sbhan.jpg",
+          "pubDate": "2024-02-25T04:03:37+06:00",
+          "pubDateUnix": "1708812217",
+          "copyright": "Daily Star",
+          "news_id": "03866f2e09271dbb5396fe4616d4f715",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Myanmar trying to wage war against Bangladesh: Rab DG",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/myanmar-trying-wage-war-against-bangladesh-rab-dg-3552066",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/myanmar-trying-wage-war-against-bangladesh-rab-dg-3552066",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/19201080_frame76.jpg",
+          "pubDate": "2024-02-25T03:15:30+06:00",
+          "pubDateUnix": "1708809330",
+          "copyright": "Daily Star",
+          "news_id": "215e804aa9ec65a3e29e0496c7821c9c",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Keep reaching for the stars",
+          "description": "https://www.thedailystar.net/supplements-0/news/keep-reaching-the-stars-3552041",
+          "url": "https://www.thedailystar.net/supplements-0/news/keep-reaching-the-stars-3552041",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/o-lavel-awards.jpg",
+          "pubDate": "2024-02-25T01:38:33+06:00",
+          "pubDateUnix": "1708803513",
+          "copyright": "Daily Star",
+          "news_id": "263bd84c3dce67ab51c95ab7acdced9c",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Carnage At Pilkhana BDR HQ: 15 years on, justice yet to be meted out",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/carnage-pilkhana-bdr-hq-15-years-justice-yet-be-meted-out-3551961",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/carnage-pilkhana-bdr-hq-15-years-justice-yet-be-meted-out-3551961",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/feature/images/bdr_1.jpg",
+          "pubDate": "2024-02-25T01:02:26+06:00",
+          "pubDateUnix": "1708801346",
+          "copyright": "Daily Star",
+          "news_id": "34c2ed5e12e1b7d379aacd36aa366c59",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "The judiciary now completely independent",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/the-judiciary-now-completely-independent-3551901",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/the-judiciary-now-completely-independent-3551901",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/pm.jpg",
+          "pubDate": "2024-02-25T00:20:29+06:00",
+          "pubDateUnix": "1708798829",
+          "copyright": "Daily Star",
+          "news_id": "c874d25efb87744c1d3b1d3404fa64ee",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Holy Shab-e-Barat tonight",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/holy-shab-e-barat-tonight-3551911",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/holy-shab-e-barat-tonight-3551911",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2022/03/18/shab-e-barat-1.jpg",
+          "pubDate": "2024-02-25T00:18:34+06:00",
+          "pubDateUnix": "1708798714",
+          "copyright": "Daily Star",
+          "news_id": "182d3e4e7e8265ea1e011d49d15a076a",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Israeli strikes kill 92 in Gaza amid ceasefire talks",
+          "description": "https://www.thedailystar.net/news/world/middle-east/news/israeli-strikes-kill-92-gaza-amid-ceasefire-talks-3551921",
+          "url": "https://www.thedailystar.net/news/world/middle-east/news/israeli-strikes-kill-92-gaza-amid-ceasefire-talks-3551921",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/gaza_0.jpg",
+          "pubDate": "2024-02-24T23:56:22+06:00",
+          "pubDateUnix": "1708797382",
+          "copyright": "Daily Star",
+          "news_id": "9355583fd366604002f4d4d85ca4f915",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Navalny's 'tortured' body handed over to his mother: spokesperson",
+          "description": "https://www.thedailystar.net/news/world/europe/news/navalnys-tortured-body-handed-over-his-mother-spokesperson-3551856",
+          "url": "https://www.thedailystar.net/news/world/europe/news/navalnys-tortured-body-handed-over-his-mother-spokesperson-3551856",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/2024-02-24t155033z_519355396_rc2m56asfxlw_rtrmadp_3_russia-navalny-death-body.jpg",
+          "pubDate": "2024-02-24T23:24:23+06:00",
+          "pubDateUnix": "1708795463",
+          "copyright": "Daily Star",
+          "news_id": "01bdc5f45ae8056b51337bd63daa0150",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Man held for torturing daughter-in-law in Ctg",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-held-torturing-daughter-law-ctg-3551841",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-held-torturing-daughter-law-ctg-3551841",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2023/01/10/2%20held%20for%20rape%20in%20Ctg.jpg",
+          "pubDate": "2024-02-24T22:28:47+06:00",
+          "pubDateUnix": "1708792127",
+          "copyright": "Daily Star",
+          "news_id": "63f6eddae03d553c6465ca7b413c1faa",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "One held for raping 7-year-old girl",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/one-held-raping-7-year-old-girl-3551816",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/one-held-raping-7-year-old-girl-3551816",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2022/05/26/child-rape-logo_1.jpg",
+          "pubDate": "2024-02-24T22:02:15+06:00",
+          "pubDateUnix": "1708790535",
+          "copyright": "Daily Star",
+          "news_id": "9fb756b9230d5c03be0f7761b636f10f",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "3-year-old dies in Rohingya camp fire",
+          "description": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/3-year-old-dies-rohingya-camp-fire-3551821",
+          "url": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/3-year-old-dies-rohingya-camp-fire-3551821",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2023/01/08/Dhamrai%20fire.jpg",
+          "pubDate": "2024-02-24T21:59:58+06:00",
+          "pubDateUnix": "1708790398",
+          "copyright": "Daily Star",
+          "news_id": "74161515443360cd167b3bf902c85c2b",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Hajj without permit will cost you Tk 15 lakh",
+          "description": "https://www.thedailystar.net/news/world/middle-east/news/hajj-without-permit-will-cost-you-tk-15-lakh-3551551",
+          "url": "https://www.thedailystar.net/news/world/middle-east/news/hajj-without-permit-will-cost-you-tk-15-lakh-3551551",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2023/07/27/hajj_2023_1.jpg",
+          "pubDate": "2024-02-24T21:51:03+06:00",
+          "pubDateUnix": "1708789863",
+          "copyright": "Daily Star",
+          "news_id": "518e5052e0b79245fa042e5515746fce",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Govt to create over 10 lakh jobs in 5 years: Palak",
+          "description": "https://www.thedailystar.net/youth/careers/jobs/news/govt-create-over-10-lakh-jobs-5-years-palak-3551646",
+          "url": "https://www.thedailystar.net/youth/careers/jobs/news/govt-create-over-10-lakh-jobs-5-years-palak-3551646",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/palak.jpg",
+          "pubDate": "2024-02-24T21:13:32+06:00",
+          "pubDateUnix": "1708787612",
+          "copyright": "Daily Star",
+          "news_id": "baad8dee0283b98c6200780f74609bde",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Truck kills madrasa student in Lalmonirhat",
+          "description": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/truck-kills-madrasa-student-lalmonirhat-3551756",
+          "url": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/truck-kills-madrasa-student-lalmonirhat-3551756",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2024/02/24/Truck%20kills%20madrasha%20student%20in%20Lalmonirhat.jpg",
+          "pubDate": "2024-02-24T20:39:44+06:00",
+          "pubDateUnix": "1708785584",
+          "copyright": "Daily Star",
+          "news_id": "30408d502229f73ef5d693445c1919a2",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Youth beaten to death over theft allegation",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/youth-beaten-death-over-theft-allegation-3551716",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/youth-beaten-death-over-theft-allegation-3551716",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/feature/images/dead_body_78.jpg",
+          "pubDate": "2024-02-24T19:42:39+06:00",
+          "pubDateUnix": "1708782159",
+          "copyright": "Daily Star",
+          "news_id": "7189dbcba5e9e519d6a4dfb5cd9fe695",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        },
+        {
+          "title": "Price hike of essentials: BNP patronising hoarders, says Quader",
+          "description": "https://www.thedailystar.net/news/bangladesh/politics/news/price-hike-essentials-bnp-patronising-hoarders-says-quader-3551706",
+          "url": "https://www.thedailystar.net/news/bangladesh/politics/news/price-hike-essentials-bnp-patronising-hoarders-says-quader-3551706",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/quader-bss.jpg",
+          "pubDate": "2024-02-24T19:32:00+06:00",
+          "pubDateUnix": "1708781520",
+          "copyright": "Daily Star",
+          "news_id": "d06ecd81af441208525e18563ffc25c7",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": ""
+        }
+      ],
+      "total": 35,
+      "page": 1
+    },
+    {
+      "category": "latest_news",
+      "category_title": "Latest News",
+      "items": [
+        {
+          "title": "Bangladesh, Turkey to work together to combat disinformation: Arafat",
+          "description": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-turkey-work-together-combat-disinformation-arafat-3551741",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-turkey-work-together-combat-disinformation-arafat-3551741",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2024/02/24/Arafat-Turkey.jpg",
+          "pubDate": "2024-02-25T10:11:32+06:00",
+          "pubDateUnix": "1708834292",
+          "copyright": "Daily Star",
+          "news_id": "c96870341cc5eedde8cbc2a65c9d43a7",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 27 minutes ago"
+        },
+        {
+          "title": "US, UK launch new wave of strikes against Yemen's Huthis",
+          "description": "https://www.thedailystar.net/news/world/news/us-uk-launch-new-wave-strikes-against-yemens-huthis-3552226",
+          "url": "https://www.thedailystar.net/news/world/news/us-uk-launch-new-wave-strikes-against-yemens-huthis-3552226",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/yemen.jpg",
+          "pubDate": "2024-02-25T09:30:12+06:00",
+          "pubDateUnix": "1708831812",
+          "copyright": "Daily Star",
+          "news_id": "95381f611698bc028d0a5ce81f98dcf9",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 1 hour ago"
+        },
+        {
+          "title": "Trump wins South Carolina, swamping Haley in her home state",
+          "description": "https://www.thedailystar.net/news/world/usa/news/trump-wins-south-carolina-swamping-haley-her-home-state-3552221",
+          "url": "https://www.thedailystar.net/news/world/usa/news/trump-wins-south-carolina-swamping-haley-her-home-state-3552221",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/trump.jpg",
+          "pubDate": "2024-02-25T09:03:56+06:00",
+          "pubDateUnix": "1708830236",
+          "copyright": "Daily Star",
+          "news_id": "d862a945297fead722b69f6eb41e5c90",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 1 hour ago"
+        },
+        {
+          "title": "Record job vacancies hurt govt services",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/record-job-vacancies-hurt-govt-services-3551871",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/record-job-vacancies-hurt-govt-services-3551871",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/record.jpg",
+          "pubDate": "2024-02-25T04:09:39+06:00",
+          "pubDateUnix": "1708812579",
+          "copyright": "Daily Star",
+          "news_id": "223846dd7a66d61e25e0d40ccd97cebb",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 6 hours ago"
+        },
+        {
+          "title": "Loan default now part of business model",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/loan-default-now-part-business-model-3551881",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/loan-default-now-part-business-model-3551881",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/rehman_sbhan.jpg",
+          "pubDate": "2024-02-25T04:03:37+06:00",
+          "pubDateUnix": "1708812217",
+          "copyright": "Daily Star",
+          "news_id": "03866f2e09271dbb5396fe4616d4f715",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 6 hours ago"
+        },
+        {
+          "title": "Myanmar trying to wage war against Bangladesh: Rab DG",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/myanmar-trying-wage-war-against-bangladesh-rab-dg-3552066",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/myanmar-trying-wage-war-against-bangladesh-rab-dg-3552066",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/19201080_frame76.jpg",
+          "pubDate": "2024-02-25T03:15:30+06:00",
+          "pubDateUnix": "1708809330",
+          "copyright": "Daily Star",
+          "news_id": "215e804aa9ec65a3e29e0496c7821c9c",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 7 hours ago"
+        },
+        {
+          "title": "Keep reaching for the stars",
+          "description": "https://www.thedailystar.net/supplements-0/news/keep-reaching-the-stars-3552041",
+          "url": "https://www.thedailystar.net/supplements-0/news/keep-reaching-the-stars-3552041",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/o-lavel-awards.jpg",
+          "pubDate": "2024-02-25T01:38:33+06:00",
+          "pubDateUnix": "1708803513",
+          "copyright": "Daily Star",
+          "news_id": "263bd84c3dce67ab51c95ab7acdced9c",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 9 hours ago"
+        },
+        {
+          "title": "Carnage At Pilkhana BDR HQ: 15 years on, justice yet to be meted out",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/carnage-pilkhana-bdr-hq-15-years-justice-yet-be-meted-out-3551961",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/carnage-pilkhana-bdr-hq-15-years-justice-yet-be-meted-out-3551961",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/feature/images/bdr_1.jpg",
+          "pubDate": "2024-02-25T01:02:26+06:00",
+          "pubDateUnix": "1708801346",
+          "copyright": "Daily Star",
+          "news_id": "34c2ed5e12e1b7d379aacd36aa366c59",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 9 hours ago"
+        },
+        {
+          "title": "The judiciary now completely independent",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/the-judiciary-now-completely-independent-3551901",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/the-judiciary-now-completely-independent-3551901",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/25/pm.jpg",
+          "pubDate": "2024-02-25T00:20:29+06:00",
+          "pubDateUnix": "1708798829",
+          "copyright": "Daily Star",
+          "news_id": "c874d25efb87744c1d3b1d3404fa64ee",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 10 hours ago"
+        },
+        {
+          "title": "Holy Shab-e-Barat tonight",
+          "description": "https://www.thedailystar.net/news/bangladesh/news/holy-shab-e-barat-tonight-3551911",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/holy-shab-e-barat-tonight-3551911",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2022/03/18/shab-e-barat-1.jpg",
+          "pubDate": "2024-02-25T00:18:34+06:00",
+          "pubDateUnix": "1708798714",
+          "copyright": "Daily Star",
+          "news_id": "182d3e4e7e8265ea1e011d49d15a076a",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 10 hours ago"
+        },
+        {
+          "title": "Israeli strikes kill 92 in Gaza amid ceasefire talks",
+          "description": "https://www.thedailystar.net/news/world/middle-east/news/israeli-strikes-kill-92-gaza-amid-ceasefire-talks-3551921",
+          "url": "https://www.thedailystar.net/news/world/middle-east/news/israeli-strikes-kill-92-gaza-amid-ceasefire-talks-3551921",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/gaza_0.jpg",
+          "pubDate": "2024-02-24T23:56:22+06:00",
+          "pubDateUnix": "1708797382",
+          "copyright": "Daily Star",
+          "news_id": "9355583fd366604002f4d4d85ca4f915",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 10 hours ago"
+        },
+        {
+          "title": "Navalny's 'tortured' body handed over to his mother: spokesperson",
+          "description": "https://www.thedailystar.net/news/world/europe/news/navalnys-tortured-body-handed-over-his-mother-spokesperson-3551856",
+          "url": "https://www.thedailystar.net/news/world/europe/news/navalnys-tortured-body-handed-over-his-mother-spokesperson-3551856",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/2024-02-24t155033z_519355396_rc2m56asfxlw_rtrmadp_3_russia-navalny-death-body.jpg",
+          "pubDate": "2024-02-24T23:24:23+06:00",
+          "pubDateUnix": "1708795463",
+          "copyright": "Daily Star",
+          "news_id": "01bdc5f45ae8056b51337bd63daa0150",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 11 hours ago"
+        },
+        {
+          "title": "Man held for torturing daughter-in-law in Ctg",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-held-torturing-daughter-law-ctg-3551841",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-held-torturing-daughter-law-ctg-3551841",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2023/01/10/2%20held%20for%20rape%20in%20Ctg.jpg",
+          "pubDate": "2024-02-24T22:28:47+06:00",
+          "pubDateUnix": "1708792127",
+          "copyright": "Daily Star",
+          "news_id": "63f6eddae03d553c6465ca7b413c1faa",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 12 hours ago"
+        },
+        {
+          "title": "One held for raping 7-year-old girl",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/one-held-raping-7-year-old-girl-3551816",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/one-held-raping-7-year-old-girl-3551816",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2022/05/26/child-rape-logo_1.jpg",
+          "pubDate": "2024-02-24T22:02:15+06:00",
+          "pubDateUnix": "1708790535",
+          "copyright": "Daily Star",
+          "news_id": "9fb756b9230d5c03be0f7761b636f10f",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 12 hours ago"
+        },
+        {
+          "title": "3-year-old dies in Rohingya camp fire",
+          "description": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/3-year-old-dies-rohingya-camp-fire-3551821",
+          "url": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/3-year-old-dies-rohingya-camp-fire-3551821",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2023/01/08/Dhamrai%20fire.jpg",
+          "pubDate": "2024-02-24T21:59:58+06:00",
+          "pubDateUnix": "1708790398",
+          "copyright": "Daily Star",
+          "news_id": "74161515443360cd167b3bf902c85c2b",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 12 hours ago"
+        },
+        {
+          "title": "Hajj without permit will cost you Tk 15 lakh",
+          "description": "https://www.thedailystar.net/news/world/middle-east/news/hajj-without-permit-will-cost-you-tk-15-lakh-3551551",
+          "url": "https://www.thedailystar.net/news/world/middle-east/news/hajj-without-permit-will-cost-you-tk-15-lakh-3551551",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2023/07/27/hajj_2023_1.jpg",
+          "pubDate": "2024-02-24T21:51:03+06:00",
+          "pubDateUnix": "1708789863",
+          "copyright": "Daily Star",
+          "news_id": "518e5052e0b79245fa042e5515746fce",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 12 hours ago"
+        },
+        {
+          "title": "Govt to create over 10 lakh jobs in 5 years: Palak",
+          "description": "https://www.thedailystar.net/youth/careers/jobs/news/govt-create-over-10-lakh-jobs-5-years-palak-3551646",
+          "url": "https://www.thedailystar.net/youth/careers/jobs/news/govt-create-over-10-lakh-jobs-5-years-palak-3551646",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/palak.jpg",
+          "pubDate": "2024-02-24T21:13:32+06:00",
+          "pubDateUnix": "1708787612",
+          "copyright": "Daily Star",
+          "news_id": "baad8dee0283b98c6200780f74609bde",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 13 hours ago"
+        },
+        {
+          "title": "Truck kills madrasa student in Lalmonirhat",
+          "description": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/truck-kills-madrasa-student-lalmonirhat-3551756",
+          "url": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/truck-kills-madrasa-student-lalmonirhat-3551756",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/media/api_images/2024/02/24/Truck%20kills%20madrasha%20student%20in%20Lalmonirhat.jpg",
+          "pubDate": "2024-02-24T20:39:44+06:00",
+          "pubDateUnix": "1708785584",
+          "copyright": "Daily Star",
+          "news_id": "30408d502229f73ef5d693445c1919a2",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 13 hours ago"
+        },
+        {
+          "title": "Youth beaten to death over theft allegation",
+          "description": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/youth-beaten-death-over-theft-allegation-3551716",
+          "url": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/youth-beaten-death-over-theft-allegation-3551716",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/feature/images/dead_body_78.jpg",
+          "pubDate": "2024-02-24T19:42:39+06:00",
+          "pubDateUnix": "1708782159",
+          "copyright": "Daily Star",
+          "news_id": "7189dbcba5e9e519d6a4dfb5cd9fe695",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 14 hours ago"
+        },
+        {
+          "title": "Price hike of essentials: BNP patronising hoarders, says Quader",
+          "description": "https://www.thedailystar.net/news/bangladesh/politics/news/price-hike-essentials-bnp-patronising-hoarders-says-quader-3551706",
+          "url": "https://www.thedailystar.net/news/bangladesh/politics/news/price-hike-essentials-bnp-patronising-hoarders-says-quader-3551706",
+          "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/02/24/quader-bss.jpg",
+          "pubDate": "2024-02-24T19:32:00+06:00",
+          "pubDateUnix": "1708781520",
+          "copyright": "Daily Star",
+          "news_id": "d06ecd81af441208525e18563ffc25c7",
+          "source": "daily_star",
+          "is_breaking": "0",
+          "social_interaction": [
+            { "id": "like", "count": "0" },
+            { "id": "dislike", "count": "0" },
+            { "id": "share", "count": "0" },
+            { "id": "save", "count": "0" }
+          ],
+          "carousel_display_details": "The Daily Star • Latest News • 15 hours ago"
+        }
+      ],
+      "total": 35,
+      "page": 1
+    }
+  ],
+  "sources": [
+    {
+      "title": "BDNews24.com",
+      "logo": "s1_cards_1631571435_3x.png",
+      "id": "bdnews24",
+      "icon": "s1_cards_1631520785_3x.png"
+    },
+    {
+      "title": "The Daily Star",
+      "logo": "s1_cards_1630333485_3x.png",
+      "id": "daily_star",
+      "icon": "s1_cards_1630333535_3x.png"
+    }
+  ],
+  "settings": {
+    "static_content": {
+      "base_path": "https://mygp.grameenphone.com/mygpstatic/"
+    },
+    "social": { "topic": "news_social_interactions" },
+    "limit": 20,
+    "channel_list_position": "3",
+    "theme": {
+      "breaking_news": {
+        "indicator": "bottom_center_outside",
+        "bg_color": "#FFFBF3",
+        "display_header": 1,
+        "title": {
+          "bg_color": "#D82730",
+          "text_color": "#FFFFFF",
+          "font_size": "12",
+          "font_weight": "bold"
+        }
+      },
+      "topic_1": {
+        "bg_color": "#FFFFFF",
+        "display_header": 1,
+        "title": {
+          "bg_color": "#FFFFFF",
+          "text_color": "#000000",
+          "font_size": "18",
+          "font_weight": "medium"
+        }
+      }
+    }
+  },
+  "topics": [
+    {
+      "title": "Breaking News",
+      "keyword": "breaking",
+      "logo": "s1_cards_1662462030_3x.png",
+      "display_type": "carousel",
+      "display_limit": 8,
+      "priority": -1,
+      "show": 1,
+      "theme": "breaking_news"
+    },
+    {
+      "title": "Top News",
+      "keyword": "home",
+      "logo": "s1_cards_1630333138_3x.png",
+      "display_type": "list",
+      "display_limit": 3,
+      "priority": 6,
+      "show": 1,
+      "theme": "topic_1"
+    }
+  ],
+  "news_channel_list": [
+    {
+      "title": "News 24 HD",
+      "logo": "s1_cards_1630345302_3x.png",
+      "link": "mygp://bioscope/content/Z644RVrdngp/1/news-24-hd"
+    },
+    {
+      "title": "Somoy TV",
+      "logo": "s1_cards_1630345345_3x.png",
+      "link": "mygp://bioscope/content/Z644RVrdngp/1/somoy-tv"
+    },
+    {
+      "title": "independent TV",
+      "logo": "s1_cards_1630345403_3x.png",
+      "link": "mygp://bioscope/content/Z644RVrdngp/1/independent-tv"
+    }
+  ],
+  "news_channel_carousel": {
+    "title": "Watch Live News Channels",
+    "view_more_deeplink": "https://mygp.grameenphone.com/mygp/bioscope/live",
+    "data": [
+      {
+        "title": "News 24 HD",
+        "logo": "s1_cards_1630345302_3x.png",
+        "link": "mygp://bioscope/content/Z644RVrdngp/1/news-24-hd"
+      },
+      {
+        "title": "Somoy TV",
+        "logo": "s1_cards_1630345345_3x.png",
+        "link": "mygp://bioscope/content/Z644RVrdngp/1/somoy-tv"
+      },
+      {
+        "title": "independent TV",
+        "logo": "s1_cards_1630345403_3x.png",
+        "link": "mygp://bioscope/content/Z644RVrdngp/1/independent-tv"
+      }
+    ]
+  }
+}
