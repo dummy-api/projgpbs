@@ -387,95 +387,106 @@
 		}
 	},
 	"soccer": {
-		"fixture_18898152": {
+		"fixture_18842562": {
+			"time": {
+				"second": 30,
+				"added_time": 5,
+				"starting_at": 1710601200,
+				"status": "LIVE",
+				"minute": 45,
+				"extra_minute": 0,
+				"injury_time": 3
+			},
 			"localteam": {
-				"team_id": 1,
-				"name": "Local Team",
-				"image": "local_team_image_url",
-				"short_code": "LT"
+				"teamId": 27,
+				"name": "Burnley",
+				"image": "burnley_logo.png",
+				"shortCode": "BUR"
 			},
+			"note": "First Half",
+			"leagueId": 123,
+			"status": "LIVE",
+			"winnerTeamId": null,
 			"visitorteam": {
-				"team_id": 2,
-				"name": "Visitor Team",
-				"image": "visitor_team_image_url",
-				"short_code": "VT"
+				"teamId": 236,
+				"name": "Brentford",
+				"image": "brentford_logo.png",
+				"shortCode": "BRE"
 			},
-			"match_status": "Live",
-			"note": "Exciting match in progress",
-			"id": 18898152,
-			"status": "In Progress",
+			"goals": [
+				{
+					"playerName": "John Doe",
+					"playerId": 12345,
+					"playerAssistName": "Jane Smith",
+					"type": "goal",
+					"extraMinute": null,
+					"minute": 15,
+					"teamId": "27",
+					"isProcessed": false
+				},
+				{
+					"playerName": "Alice Johnson",
+					"playerId": 67890,
+					"playerAssistName": null,
+					"type": "goal",
+					"extraMinute": null,
+					"minute": 30,
+					"teamId": "236",
+					"isProcessed": false
+				}
+			],
+			"id": 18842562,
 			"scores": {
-				"local_team_score": [
-					{
-						"run": 120,
-						"over": 15.2,
-						"scoreboard": "120/3",
-						"is_latest": 1,
-						"wicket": 3
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 80,
-						"over": 10.5,
-						"scoreboard": "80/2",
-						"is_latest": 0,
-						"wicket": 2
-					}
-				]
+				"localteamPenScore": null,
+				"visitorteamScore": 1,
+				"etScore": null,
+				"htScore": "1-0",
+				"ftScore": null,
+				"visitorteamPenScore": null,
+				"psScore": null,
+				"localteamScore": 1
 			},
-			"total_overs_played": "15.2",
-			"winner_team_id": null,
-			"league_id": 456,
-			"winnerteam": "",
-			"starting_at": 1678872000,
-			"match_type": "ODI",
-			"round": "Group Stage"
+			"winnerteam": null
 		},
-		"fixture_18842534": {
+		"fixture_18842567": {
+			"time": {
+				"second": 0,
+				"added_time": 0,
+				"starting_at": 1710547200,
+				"status": "LIVE",
+				"minute": 20,
+				"extra_minute": 0,
+				"injury_time": 0
+			},
 			"localteam": {
-				"team_id": 1,
-				"name": "Local Team",
-				"image": "local_team_image_url",
-				"short_code": "LT"
+				"teamId": 14,
+				"name": "Manchester United",
+				"image": "soccer_14.png",
+				"shortCode": "MANU"
 			},
+			"note": "",
+			"leagueId": 0,
+			"status": "LIVE",
+			"winnerTeamId": 0,
 			"visitorteam": {
-				"team_id": 2,
-				"name": "Visitor Team",
-				"image": "visitor_team_image_url",
-				"short_code": "VT"
+				"teamId": 21,
+				"name": "Sheffield United",
+				"image": "soccer_21.png",
+				"shortCode": "SHEFF"
 			},
-			"match_status": "Live",
-			"note": "Exciting match in progress",
-			"id": 18842534,
-			"status": "In Progress",
+			"goals": [],
+			"id": 18842567,
 			"scores": {
-				"local_team_score": [
-					{
-						"run": 120,
-						"over": 15.2,
-						"scoreboard": "120/3",
-						"is_latest": 1,
-						"wicket": 3
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 80,
-						"over": 10.5,
-						"scoreboard": "80/2",
-						"is_latest": 0,
-						"wicket": 2
-					}
-				]
+				"localteamPenScore": 0,
+				"visitorteamScore": 0,
+				"etScore": "",
+				"htScore": "",
+				"ftScore": "",
+				"visitorteamPenScore": 0,
+				"psScore": "",
+				"localteamScore": 0
 			},
-			"total_overs_played": "15.2",
-			"winner_team_id": null,
-			"league_id": 456,
-			"winnerteam": "",
-			"starting_at": 1678872000,
-			"match_type": "ODI",
-			"round": "Group Stage"
+			"winnerteam": ""
 		}
 	}
 }
