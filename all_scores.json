@@ -450,43 +450,34 @@
 		},
 		"fixture_18842567": {
 			"time": {
-				"second": 0,
-				"added_time": 0,
+				"second": null,
+				"added_time": null,
 				"starting_at": 1710547200,
-				"status": "LIVE",
-				"minute": 20,
-				"extra_minute": 0,
-				"injury_time": 0
+				"status": "active",
+				"minute": null,
+				"extra_minute": null,
+				"injury_time": null
 			},
 			"localteam": {
 				"teamId": 14,
 				"name": "Manchester United",
 				"image": "soccer_14.png",
-				"shortCode": "MANU"
+				"shortCode": null
 			},
-			"note": "",
-			"leagueId": 0,
-			"status": "LIVE",
-			"winnerTeamId": 0,
+			"note": null,
+			"leagueId": null,
+			"status": "active",
+			"winnerTeamId": null,
 			"visitorteam": {
 				"teamId": 21,
 				"name": "Sheffield United",
 				"image": "soccer_21.png",
-				"shortCode": "SHEFF"
+				"shortCode": null
 			},
-			"goals": [],
+			"goals": null,
 			"id": 18842567,
-			"scores": {
-				"localteamPenScore": 0,
-				"visitorteamScore": 0,
-				"etScore": "",
-				"htScore": "",
-				"ftScore": "",
-				"visitorteamPenScore": 0,
-				"psScore": "",
-				"localteamScore": 0
-			},
-			"winnerteam": ""
+			"scores": null,
+			"winnerteam": null
 		}
 	}
 }
