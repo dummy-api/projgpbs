@@ -392,7 +392,7 @@
 				"second": 30,
 				"added_time": 5,
 				"starting_at": 1710601200,
-				"status": "LIVE",
+				"status": "Live",
 				"minute": 45,
 				"extra_minute": 0,
 				"injury_time": 3
@@ -405,7 +405,7 @@
 			},
 			"note": "First Half",
 			"leagueId": 123,
-			"status": "LIVE",
+			"status": "Live",
 			"winnerTeamId": null,
 			"visitorteam": {
 				"teamId": 236,
