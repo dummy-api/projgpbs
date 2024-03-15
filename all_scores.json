@@ -453,7 +453,7 @@
 				"second": null,
 				"added_time": null,
 				"starting_at": 1710547200,
-				"status": "active",
+				"status": "Not Started",
 				"minute": null,
 				"extra_minute": null,
 				"injury_time": null
@@ -466,7 +466,7 @@
 			},
 			"note": null,
 			"leagueId": null,
-			"status": "active",
+			"status": "Not Started",
 			"winnerTeamId": null,
 			"visitorteam": {
 				"teamId": 21,
