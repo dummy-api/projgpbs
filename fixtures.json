@@ -1,16 +1,124 @@
 {
   "data": [
     {
-      "fixture_id": 58442,
-      "league_name": "One Day International",
-      "league_logo": "https://cdn.sportmonks.com/images/cricket/leagues/2/2.png",
-      "type": "cricket",
+      "fixture_id": 1,
+      "league_name": "Premier League",
+      "league_logo": null,
+      "type": "soccer",
       "live": false,
-      "priority": 1,
+      "priority": 2,
       "status": "active",
-      "starting_at": 1710734400,
-      "campaign_start_time": 1710727200,
-      "campaign_end_time": 1711758348,
+      "starting_at": 1708642800,
+      "campaign_start_time": 1708580400,
+      "campaign_end_time": 1714455600,
+      "local_team": {
+        "id": 18,
+        "name": "Chelsea",
+        "flag": "soccer_18.png",
+        "country_name": "England"
+      },
+      "visitor_team": {
+        "id": 6,
+        "name": "Tottenham Hotspur",
+        "flag": "soccer_6.png",
+        "country_name": "England"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/soccer/2024-02-22/f1.json",
+      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/big-bash-league-2023-24?type=channel",
+      "is_force": true
+    },
+    {
+      "fixture_id": 2,
+      "league_name": "Premier League",
+      "league_logo": null,
+      "type": "soccer",
+      "live": false,
+      "priority": 2,
+      "status": "active",
+      "starting_at": 1708642800,
+      "campaign_start_time": 1708580400,
+      "campaign_end_time": 1714455600,
+      "local_team": {
+        "id": 18,
+        "name": "Chelsea",
+        "flag": "soccer_18.png",
+        "country_name": "England"
+      },
+      "visitor_team": {
+        "id": 6,
+        "name": "Tottenham Hotspur",
+        "flag": "soccer_6.png",
+        "country_name": "England"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/soccer/2024-02-22/f2.json",
+      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/big-bash-league-2023-24?type=channel",
+      "is_force": true
+    },
+    {
+      "fixture_id": 3,
+      "league_name": "Premier League",
+      "league_logo": null,
+      "type": "soccer",
+      "live": false,
+      "priority": 2,
+      "status": "active",
+      "starting_at": 1708642800,
+      "campaign_start_time": 1708580400,
+      "campaign_end_time": 1714455600,
+      "local_team": {
+        "id": 18,
+        "name": "Chelsea",
+        "flag": "soccer_18.png",
+        "country_name": "England"
+      },
+      "visitor_team": {
+        "id": 6,
+        "name": "Tottenham Hotspur",
+        "flag": "soccer_6.png",
+        "country_name": "England"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/soccer/2024-02-22/f3.json",
+      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/big-bash-league-2023-24?type=channel",
+      "is_force": true
+    },
+    {
+      "fixture_id": 4,
+      "league_name": "Premier League",
+      "league_logo": null,
+      "type": "soccer",
+      "live": false,
+      "priority": 2,
+      "status": "active",
+      "starting_at": 1708642800,
+      "campaign_start_time": 1708580400,
+      "campaign_end_time": 1714455600,
+      "local_team": {
+        "id": 18,
+        "name": "Chelsea",
+        "flag": "soccer_18.png",
+        "country_name": "England"
+      },
+      "visitor_team": {
+        "id": 6,
+        "name": "Tottenham Hotspur",
+        "flag": "soccer_6.png",
+        "country_name": "England"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/soccer/2024-02-22/f4.json",
+      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/big-bash-league-2023-24?type=channel",
+      "is_force": true
+    },
+    {
+      "fixture_id": 5,
+      "league_name": "ICC World Cup",
+      "league_logo": "https://cdn.sportmonks.com/images/cricket/leagues/3/3.png",
+      "type": "cricket",
+      "live": true,
+      "priority": null,
+      "status": "active",
+      "starting_at": 1709553600,
+      "campaign_start_time": 1709548800,
+      "campaign_end_time": 1741251933,
       "local_team": {
         "id": 37,
         "name": "Bangladesh",
@@ -23,68 +131,152 @@
         "flag": "cricket_39.png",
         "country_name": "International"
       },
-      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/cricket/2024-03-18/58442.json",
-      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/sri-lanka-tour-of-bangladesh-2024?type=channel",
-      "is_force": false
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/cricket/2024-03-04/c5.json",
+      "watch_live_url": null,
+      "is_force": true
+    },
+    {
+      "fixture_id": 6,
+      "league_name": "ICC Test",
+      "league_logo": "https://cdn.sportmonks.com/images/cricket/leagues/8/8.png",
+      "type": "cricket",
+      "live": true,
+      "priority": 1,
+      "status": "active",
+      "starting_at": 1709474400,
+      "campaign_start_time": 1709461200,
+      "campaign_end_time": 1711880400,
+      "local_team": {
+        "id": 12,
+        "name": "Karachi Kings",
+        "flag": "cricket_12.png",
+        "country_name": "Pakistan"
+      },
+      "visitor_team": {
+        "id": 14,
+        "name": "Multan Sultans",
+        "flag": "cricket_14.png",
+        "country_name": "Pakistan"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/cricket/2024-03-03/c6.json",
+      "watch_live_url": null,
+      "is_force": true
+    },
+    {
+      "fixture_id": 7,
+      "league_name": "Test Series",
+      "league_logo": "https://cdn.sportmonks.com/images/cricket/leagues/4/4.png",
+      "type": "cricket",
+      "live": false,
+      "priority": 1,
+      "status": "active",
+      "starting_at": 1709100000,
+      "campaign_start_time": 1709108640,
+      "campaign_end_time": 1710663840,
+      "local_team": {
+        "id": 46,
+        "name": "Afghanistan",
+        "flag": "cricket_46.png",
+        "country_name": "International"
+      },
+      "visitor_team": {
+        "id": 100,
+        "name": "Ireland",
+        "flag": "cricket_100.png",
+        "country_name": "International"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/cricket/2024-02-28/c7.json",
+      "watch_live_url": null,
+      "is_force": true
+    },
+    {
+      "fixture_id": 8,
+      "league_name": "Test Series",
+      "league_logo": "https://cdn.sportmonks.com/images/cricket/leagues/4/4.png",
+      "type": "cricket",
+      "live": false,
+      "priority": 1,
+      "status": "active",
+      "starting_at": 1709100000,
+      "campaign_start_time": 1709108640,
+      "campaign_end_time": 1710663840,
+      "local_team": {
+        "id": 46,
+        "name": "Afghanistan",
+        "flag": "cricket_46.png",
+        "country_name": "International"
+      },
+      "visitor_team": {
+        "id": 100,
+        "name": "Ireland",
+        "flag": "cricket_100.png",
+        "country_name": "International"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/cricket/2024-02-28/c8.json",
+      "watch_live_url": null,
+      "is_force": true
     }
   ],
   "settings": {
     "theme": {
       "floating_icon": {
+        "not started": {
+          "text_color": "#000000",
+          "bg_color": "#FFD361"
+        },
         "Live": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#008000",
+          "bg_color": "#DE3039"
         },
         "Half-Time": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#FFFFFF",
+          "bg_color": "#DE3039"
         },
         "Full-Time": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#FFFFFF",
+          "bg_color": "#1A8139"
         },
         "Extra-Time": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#2B452B",
+          "bg_color": "#BAD2D6"
         },
         "Penalty Shootout": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#9561B9",
+          "bg_color": "#D6ADD1"
         },
         "Cancelled": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#AFD6AD",
+          "bg_color": "#4E5032"
         },
         "PostPoned": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#E259D8",
+          "bg_color": "#A6ACDB"
         },
         "Interrupted": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#537370",
+          "bg_color": "#D6D420"
         },
         "Abandoned": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#D6D420",
+          "bg_color": "#537370"
         },
         "Suspended": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#E259D8",
+          "bg_color": "#AFD6AD"
         },
         "Delayed": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#537370",
+          "bg_color": "#AFD6AD"
         },
         "Walkover": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#E259D8",
+          "bg_color": "#537370"
         },
         "Stumps": {
-          "text_color": "#ffffff",
-          "bg_color": "#ff0000"
+          "text_color": "#FFFFFF",
+          "bg_color": "#1A8139"
         }
       }
-    },
-    "all_live_score_url": "https://mygptest.grameenphone.com/sports/livescores/score/livescore.json"
+    }
   }
 }

@@ -1,483 +1,587 @@
 {
-	"cricket": {
-		"fixture_58427": {
-			"id": 58427,
-			"league_id": 3,
-			"localteam": {
-				"team_id": 37,
-				"name": "Bangladesh",
-				"image": "37.png",
-				"short_code": "BGD"
-			},
-			"visitorteam": {
-				"team_id": 39,
-				"name": "Sri Lanka",
-				"image": "39.png",
-				"short_code": "LKA"
-			},
-			"winnerteam": "visitorteam",
-			"winner_team_id": 39,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 203,
-						"over": 20,
-						"wicket": 8,
-						"scoreboard": "S2",
-						"is_latest": 1
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 206,
-						"over": 20,
-						"wicket": 3,
-						"scoreboard": "S1",
-						"is_latest": 0
-					}
-				]
-			},
-			"starting_at": 1709553600,
-			"status": "Finished",
-			"note": "Sri Lanka won by 3 runs",
-			"round": "1st T20I",
-			"match_status": "1st T20I: Finished",
-			"total_overs_played": null,
-			"match_type": "T20I",
-			"follow_on": false
-		},
-		"fixture_58394": {
-			"id": 58394,
-			"league_id": 4,
-			"localteam": {
-				"team_id": 46,
-				"name": "Afghanistan",
-				"image": "46.png",
-				"short_code": "AFG"
-			},
-			"visitorteam": {
-				"team_id": 100,
-				"name": "Ireland",
-				"image": "100.png",
-				"short_code": "IRE"
-			},
-			"winnerteam": "visitorteam",
-			"winner_team_id": 100,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 155,
-						"over": 54.5,
-						"wicket": 10,
-						"scoreboard": "S1",
-						"is_latest": 0
-					},
-					{
-						"run": 218,
-						"over": 75.4,
-						"wicket": 10,
-						"scoreboard": "S3",
-						"is_latest": 0
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 264,
-						"over": 83.4,
-						"wicket": 10,
-						"scoreboard": "S2",
-						"is_latest": 0
-					},
-					{
-						"run": 111,
-						"over": 31.3,
-						"wicket": 4,
-						"scoreboard": "S4",
-						"is_latest": 1
-					}
-				]
-			},
-			"starting_at": 1709100000,
-			"status": "Finished",
-			"note": "Ireland won by 6 wickets",
-			"round": "Only Test",
-			"match_status": "Only Test: Finished",
-			"total_overs_played": null,
-			"match_type": "Test/5day",
-			"follow_on": false
-		},
-		"fixture_57581": {
-			"id": 57581,
-			"league_id": 8,
-			"localteam": {
-				"team_id": 12,
-				"name": "Karachi Kings",
-				"image": "12.png",
-				"short_code": "KRK"
-			},
-			"visitorteam": {
-				"team_id": 14,
-				"name": "Multan Sultans",
-				"image": "14.png",
-				"short_code": "MS"
-			},
-			"winnerteam": "visitorteam",
-			"winner_team_id": 14,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 169,
-						"over": 20,
-						"wicket": 7,
-						"scoreboard": "S2",
-						"is_latest": 1
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 189,
-						"over": 20,
-						"wicket": 3,
-						"scoreboard": "S1",
-						"is_latest": 0
-					}
-				]
-			},
-			"starting_at": 1709474400,
-			"status": "Finished",
-			"note": "Multan Sultans won by 20 runs",
-			"round": "19th Match",
-			"match_status": "19th Match: Finished",
-			"total_overs_played": "20",
-			"match_type": "T20",
-			"follow_on": false
-		},
-		"fixture_54215": {
-			"id": 54215,
-			"league_id": 111,
-			"localteam": {
-				"team_id": 10,
-				"name": "India",
-				"image": "10.png",
-				"short_code": "IND"
-			},
-			"visitorteam": {
-				"team_id": 38,
-				"name": "England",
-				"image": "38.png",
-				"short_code": "ENG"
-			},
-			"winnerteam": "localteam",
-			"winner_team_id": 10,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 477,
-						"over": 124.1,
-						"wicket": 10,
-						"scoreboard": "S2",
-						"is_latest": 0
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 218,
-						"over": 57.4,
-						"wicket": 10,
-						"scoreboard": "S1",
-						"is_latest": 0
-					},
-					{
-						"run": 195,
-						"over": 48.1,
-						"wicket": 10,
-						"scoreboard": "S3",
-						"is_latest": 1
-					}
-				]
-			},
-			"starting_at": 1709784000,
-			"status": "Finished",
-			"note": "India won by an innings and 64 runs",
-			"round": "5th Test",
-			"match_status": "5th Test: Finished",
-			"total_overs_played": null,
-			"match_type": "Test/5day",
-			"follow_on": false
-		},
-		"fixture_57188": {
-			"id": 57188,
-			"league_id": 111,
-			"localteam": {
-				"team_id": 42,
-				"name": "New Zealand",
-				"image": "42.png",
-				"short_code": "NZL"
-			},
-			"visitorteam": {
-				"team_id": 40,
-				"name": "South Africa",
-				"image": "40.png",
-				"short_code": "SA"
-			},
-			"winnerteam": "localteam",
-			"winner_team_id": 42,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 211,
-						"over": 77.3,
-						"wicket": 10,
-						"scoreboard": "S2",
-						"is_latest": 0
-					},
-					{
-						"run": 269,
-						"over": 94.2,
-						"wicket": 3,
-						"scoreboard": "S4",
-						"is_latest": 1
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 242,
-						"over": 97.2,
-						"wicket": 10,
-						"scoreboard": "S1",
-						"is_latest": 0
-					},
-					{
-						"run": 235,
-						"over": 69.5,
-						"wicket": 10,
-						"scoreboard": "S3",
-						"is_latest": 0
-					}
-				]
-			},
-			"starting_at": 1707775200,
-			"status": "Finished",
-			"note": "New Zealand won by 7 wickets",
-			"round": "2nd Test",
-			"match_status": "2nd Test: Finished",
-			"total_overs_played": null,
-			"match_type": "Test/5day",
-			"follow_on": false
-		},
-		"fixture_57191": {
-			"id": 57191,
-			"league_id": 111,
-			"localteam": {
-				"team_id": 42,
-				"name": "New Zealand",
-				"image": "42.png",
-				"short_code": "NZL"
-			},
-			"visitorteam": {
-				"team_id": 36,
-				"name": "Australia",
-				"image": "36.png",
-				"short_code": "AUS"
-			},
-			"winnerteam": "visitorteam",
-			"winner_team_id": 36,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 179,
-						"over": 43.1,
-						"wicket": 10,
-						"scoreboard": "S2",
-						"is_latest": 0
-					},
-					{
-						"run": 196,
-						"over": 64.4,
-						"wicket": 10,
-						"scoreboard": "S4",
-						"is_latest": 1
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 383,
-						"over": 115.1,
-						"wicket": 10,
-						"scoreboard": "S1",
-						"is_latest": 0
-					},
-					{
-						"run": 164,
-						"over": 51.1,
-						"wicket": 10,
-						"scoreboard": "S3",
-						"is_latest": 0
-					}
-				]
-			},
-			"starting_at": 1709157600,
-			"status": "Finished",
-			"note": "Australia won by 172 runs",
-			"round": "1st Test",
-			"match_status": "1st Test: Finished",
-			"total_overs_played": null,
-			"match_type": "Test/5day",
-			"follow_on": false
-		},
-		"fixture_57194": {
-			"id": 57194,
-			"league_id": 111,
-			"localteam": {
-				"team_id": 42,
-				"name": "New Zealand",
-				"image": "42.png",
-				"short_code": "NZL"
-			},
-			"visitorteam": {
-				"team_id": 36,
-				"name": "Australia",
-				"image": "36.png",
-				"short_code": "AUS"
-			},
-			"winnerteam": "visitorteam",
-			"winner_team_id": 36,
-			"scores": {
-				"local_team_score": [
-					{
-						"run": 162,
-						"over": 45.2,
-						"wicket": 10,
-						"scoreboard": "S1",
-						"is_latest": 0
-					},
-					{
-						"run": 372,
-						"over": 108.2,
-						"wicket": 10,
-						"scoreboard": "S3",
-						"is_latest": 0
-					}
-				],
-				"visitor_team_score": [
-					{
-						"run": 256,
-						"over": 68,
-						"wicket": 10,
-						"scoreboard": "S2",
-						"is_latest": 0
-					},
-					{
-						"run": 281,
-						"over": 65,
-						"wicket": 7,
-						"scoreboard": "S4",
-						"is_latest": 1
-					}
-				]
-			},
-			"starting_at": 1709848800,
-			"status": "Finished",
-			"note": "Australia won by 3 wickets",
-			"round": "2nd Test",
-			"match_status": "2nd Test: Finished",
-			"total_overs_played": null,
-			"match_type": "Test/5day",
-			"follow_on": false
-		}
-	},
-	"soccer": {
-		"fixture_18842562": {
-			"time": {
-				"second": 30,
-				"added_time": 5,
-				"starting_at": 1710601200,
-				"status": "Live",
-				"minute": 45,
-				"extra_minute": 0,
-				"injury_time": 3
-			},
-			"localteam": {
-				"teamId": 27,
-				"name": "Burnley",
-				"image": "burnley_logo.png",
-				"shortCode": "BUR"
-			},
-			"note": "First Half",
-			"leagueId": 123,
-			"status": "Live",
-			"winnerTeamId": null,
-			"visitorteam": {
-				"teamId": 236,
-				"name": "Brentford",
-				"image": "brentford_logo.png",
-				"shortCode": "BRE"
-			},
-			"goals": [
-				{
-					"playerName": "John Doe",
-					"playerId": 12345,
-					"playerAssistName": "Jane Smith",
-					"type": "goal",
-					"extraMinute": null,
-					"minute": 15,
-					"teamId": "27",
-					"isProcessed": false
-				},
-				{
-					"playerName": "Alice Johnson",
-					"playerId": 67890,
-					"playerAssistName": null,
-					"type": "goal",
-					"extraMinute": null,
-					"minute": 30,
-					"teamId": "236",
-					"isProcessed": false
-				}
-			],
-			"id": 18842562,
-			"scores": {
-				"localteamPenScore": null,
-				"visitorteamScore": 1,
-				"etScore": null,
-				"htScore": "1-0",
-				"ftScore": null,
-				"visitorteamPenScore": null,
-				"psScore": null,
-				"localteamScore": 1
-			},
-			"winnerteam": null
-		},
-		"fixture_18842567": {
-			"time": {
-				"second": null,
-				"added_time": null,
-				"starting_at": 1710547200,
-				"status": "Not Started",
-				"minute": null,
-				"extra_minute": null,
-				"injury_time": null
-			},
-			"localteam": {
-				"teamId": 14,
-				"name": "Manchester United",
-				"image": "soccer_14.png",
-				"shortCode": null
-			},
-			"note": null,
-			"leagueId": null,
-			"status": "Not Started",
-			"winnerTeamId": null,
-			"visitorteam": {
-				"teamId": 21,
-				"name": "Sheffield United",
-				"image": "soccer_21.png",
-				"shortCode": null
-			},
-			"goals": null,
-			"id": 18842567,
-			"scores": null,
-			"winnerteam": null
-		}
-	}
+  "cricket": {
+    "fixture_5": {
+      "id": 5,
+      "league_id": 4,
+      "ribbon": "Final",
+      "localteam": {
+        "team_id": 46,
+        "name": "Afghanistan",
+        "image": "46.png",
+        "short_code": "AFG"
+      },
+      "visitorteam": {
+        "team_id": 100,
+        "name": "Ireland",
+        "image": "100.png",
+        "short_code": "IRE"
+      },
+      "winnerteam": "TBD",
+      "winner_team_id": null,
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 155,
+            "over": 54.5,
+            "wicket": 10,
+            "scoreboard": "S1",
+            "is_latest": 0
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 100,
+            "over": 31,
+            "wicket": 4,
+            "scoreboard": "S2",
+            "is_latest": 1
+          }
+        ]
+      },
+      "starting_at": 1710394201,
+      "status": "not started",
+      "note": "Zimbabwe chose to bat First",
+      "round": "Only Test",
+      "match_status": "1st ODI",
+      "total_overs_played": null,
+      "match_type": "ODI"
+    },
+    "fixture_6": {
+      "id": 6,
+      "league_id": 4,
+      "localteam": {
+        "team_id": 46,
+        "name": "Afghanistan",
+        "image": "46.png",
+        "short_code": "AFG"
+      },
+      "visitorteam": {
+        "team_id": 100,
+        "name": "Ireland",
+        "image": "100.png",
+        "short_code": "IRE"
+      },
+      "winnerteam": "TBD",
+      "winner_team_id": null,
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 431,
+            "over": 54.5,
+            "wicket": 10,
+            "scoreboard": "S1",
+            "is_latest": 0
+          },
+          {
+            "run": 180,
+            "over": 54.5,
+            "wicket": 5,
+            "scoreboard": "S3",
+            "is_latest": 0,
+            "declared": 1
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 239,
+            "over": 31,
+            "wicket": 10,
+            "scoreboard": "S2",
+            "is_latest": 0
+          },
+          {
+            "run": 271,
+            "over": 31,
+            "wicket": 10,
+            "scoreboard": "S4",
+            "is_latest": 1
+          }
+        ]
+      },
+      "starting_at": 1710390601,
+      "status": "not started",
+      "note": "Zimbabwe chose to bat",
+      "round": "Only Test",
+      "match_status": "Test Day 5 | Launch Break(declared with target)",
+      "total_overs_played": null,
+      "match_type": "Test"
+    },
+    "fixture_7": {
+      "id": 7,
+      "league_id": 4,
+      "localteam": {
+        "team_id": 46,
+        "name": "Afghanistan",
+        "image": "46.png",
+        "short_code": "AFG"
+      },
+      "visitorteam": {
+        "team_id": 100,
+        "name": "Ireland",
+        "image": "100.png",
+        "short_code": "IRE",
+        "is_declared": 0
+      },
+      "winnerteam": "TBD",
+      "winner_team_id": null,
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 470,
+            "over": 54.5,
+            "wicket": 7,
+            "scoreboard": "S1",
+            "is_latest": 0,
+            "declared": 1
+          },
+          {
+            "run": 180,
+            "over": 54.5,
+            "wicket": 10,
+            "scoreboard": "S4",
+            "is_latest": 0
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 239,
+            "over": 31,
+            "wicket": 10,
+            "scoreboard": "S2",
+            "is_latest": 0
+          },
+          {
+            "run": 271,
+            "over": 31,
+            "wicket": 10,
+            "scoreboard": "S3",
+            "is_latest": 1
+          }
+        ]
+      },
+      "starting_at": 0,
+      "status": "live",
+      "note": "Bangladesh won by 101 runs",
+      "round": "Only Test",
+      "match_status": "1st Test, Dhaka, Bangladesh Tour of Zimbabwe(declared with follow on)",
+      "total_overs_played": null,
+      "follow_on": true,
+      "match_type": "Test"
+    },
+    "fixture_8": {
+      "id": 8,
+      "league_id": 4,
+      "localteam": {
+        "team_id": 46,
+        "name": "Afghanistan",
+        "image": "46.png",
+        "short_code": "AFG"
+      },
+      "visitorteam": {
+        "team_id": 100,
+        "name": "Ireland",
+        "image": "100.png",
+        "short_code": "IRE",
+        "is_declared": 0
+      },
+      "winnerteam": "TBD",
+      "winner_team_id": null,
+      "scores": {
+        "local_team_score": [
+          {
+            "run": 196,
+            "over": 20,
+            "wicket": 5,
+            "scoreboard": "S1",
+            "is_latest": 0,
+            "is_declared": 1,
+            "is_follow_on": 0
+          }
+        ],
+        "visitor_team_score": [
+          {
+            "run": 196,
+            "over": 20,
+            "wicket": 8,
+            "scoreboard": "S2",
+            "is_latest": 1,
+            "is_declared": 1,
+            "is_follow_on": 0
+          }
+        ]
+      },
+      "starting_at": 1709784246,
+      "status": "Finished",
+      "note": "Match tied (BAN won the one-over eliminator)",
+      "round": "Only Test",
+      "match_status": "1st Test, Dhaka, Bangladesh Tour of Zimbabwe(yet to bat 1 team",
+      "total_overs_played": null,
+      "match_type": "t20"
+    }
+  },
+  "soccer": {
+    "fixture_1": {
+      "id": 1,
+      "league_id": 944,
+      "ribbon": "Final",
+      "localteam": {
+        "team_id": 10660,
+        "name": "Al Tai",
+        "image": "10660.png",
+        "short_code": "TSP"
+      },
+      "visitorteam": {
+        "team_id": 476,
+        "name": "Al Ittihad",
+        "image": "476.png",
+        "short_code": "ITT"
+      },
+      "winnerteam": "visitorteam",
+      "winner_team_id": 476,
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 3,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": "0-2",
+        "ft_score": "0-3",
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "Full-Time",
+        "starting_at": 1710383401,
+        "minute": 90,
+        "second": null,
+        "added_time": 4,
+        "extra_minute": 4,
+        "injury_time": null
+      },
+      "status": "not started",
+      "goals": [
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 37386313,
+          "player_name": "Faisal Al-Ghamdi",
+          "minute": 42,
+          "type": "goal",
+          "player_assist_name": null,
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 218524,
+          "player_name": "Romarinho",
+          "minute": 87,
+          "type": "goal",
+          "player_assist_name": "N'Golo Kanté",
+          "extra_minute": null
+        }
+      ],
+      "note": "Romarinho has scored a goal at 87 minute!"
+    },
+    "fixture_2": {
+      "id": 2,
+      "league_id": 944,
+      "localteam": {
+        "team_id": 10660,
+        "name": "Al Tai",
+        "image": "10660.png",
+        "short_code": "TSP"
+      },
+      "visitorteam": {
+        "team_id": 476,
+        "name": "Al Ittihad",
+        "image": "476.png",
+        "short_code": "ITT"
+      },
+      "winnerteam": "visitorteam",
+      "winner_team_id": 476,
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 3,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": "0-2",
+        "ft_score": "0-3",
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "Half-Time",
+        "starting_at": 1710383401,
+        "minute": 90,
+        "second": null,
+        "added_time": 4,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "status": "live",
+      "goals": [
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "1",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "2",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "3",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "4",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 99,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 1,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 1,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 2,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 3,
+          "player_name": "Faisal Al-Ghamdi",
+          "minute": 42,
+          "type": "goal",
+          "player_assist_name": null,
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 218524,
+          "player_name": "Romarinho",
+          "minute": 87,
+          "type": "goal",
+          "player_assist_name": "N'Golo Kanté",
+          "extra_minute": null
+        }
+      ],
+      "note": "test data"
+    },
+    "fixture_3": {
+      "id": 3,
+      "league_id": 944,
+      "localteam": {
+        "team_id": 10660,
+        "name": "Al Tai",
+        "image": "10660.png",
+        "short_code": "TSP"
+      },
+      "visitorteam": {
+        "team_id": 476,
+        "name": "Al Ittihad",
+        "image": "476.png",
+        "short_code": "ITT"
+      },
+      "winnerteam": "visitorteam",
+      "winner_team_id": 476,
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 3,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": "0-2",
+        "ft_score": "0-3",
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "Full-Time",
+        "starting_at": 1707328800,
+        "minute": 90,
+        "second": null,
+        "added_time": 4,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "status": "Full-Time",
+      "goals": [
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 37386313,
+          "player_name": "Faisal Al-Ghamdi",
+          "minute": 42,
+          "type": "goal",
+          "player_assist_name": null,
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 218524,
+          "player_name": "Romarinho",
+          "minute": 87,
+          "type": "goal",
+          "player_assist_name": "N'Golo Kanté",
+          "extra_minute": null
+        }
+      ],
+      "note": "Romarinho has scored a goal at 87 minute!"
+    },
+    "fixture_4": {
+      "id": 4,
+      "league_id": 944,
+      "localteam": {
+        "team_id": 10660,
+        "name": "Al Tai",
+        "image": "10660.png",
+        "short_code": "TSP"
+      },
+      "visitorteam": {
+        "team_id": 476,
+        "name": "Al Ittihad",
+        "image": "476.png",
+        "short_code": "ITT"
+      },
+      "winnerteam": "visitorteam",
+      "winner_team_id": 476,
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 3,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": "0-2",
+        "ft_score": "0-3",
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "Full-Time",
+        "starting_at": 1707328800,
+        "minute": 90,
+        "second": null,
+        "added_time": 4,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "status": "Live",
+      "goals": [
+        {
+          "team_id": "476",
+          "player_id": 151014,
+          "player_name": "Abderrazak Hamdallah",
+          "minute": 8,
+          "type": "goal",
+          "player_assist_name": "Fawaz Al-Sagour",
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 37386313,
+          "player_name": "Faisal Al-Ghamdi",
+          "minute": 42,
+          "type": "goal",
+          "player_assist_name": null,
+          "extra_minute": null
+        },
+        {
+          "team_id": "476",
+          "player_id": 218524,
+          "player_name": "Romarinho",
+          "minute": 87,
+          "type": "goal",
+          "player_assist_name": "N'Golo Kanté",
+          "extra_minute": null
+        }
+      ],
+      "note": "Romarinho has scored a goal at 87 minute!"
+    }
+  }
 }
