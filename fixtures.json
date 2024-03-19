@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "fixture_id": 58442,
+      "league_name": "One Day International",
+      "league_logo": "https://cdn.sportmonks.com/images/cricket/leagues/2/2.png",
+      "type": "cricket",
+      "live": false,
+      "priority": 1,
+      "status": "active",
+      "starting_at": 1710734400,
+      "campaign_start_time": 1710727200,
+      "campaign_end_time": 1710765000,
+      "local_team": {
+        "id": 37,
+        "name": "Bangladesh",
+        "flag": "cricket_37.png",
+        "country_name": "International"
+      },
+      "visitor_team": {
+        "id": 39,
+        "name": "Sri Lanka",
+        "flag": "cricket_39.png",
+        "country_name": "International"
+      },
+      "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/cricket/2024-03-18/58442.json",
+      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/sri-lanka-tour-of-bangladesh-2024?type=channel",
+      "is_force": false
+    }
+  ],
+  "settings": {
+    "theme": {
+      "floating_icon": {
+        "Live": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Half-Time": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Full-Time": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Extra-Time": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Penalty Shootout": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Cancelled": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "PostPoned": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Interrupted": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Abandoned": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Suspended": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Delayed": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Walkover": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        },
+        "Stumps": {
+          "text_color": "#ffffff",
+          "bg_color": "#ff0000"
+        }
+      }
+    },
+    "all_live_score_url": "https://mygptest.grameenphone.com/sports/livescores/score/livescore.json"
+  }
+}
