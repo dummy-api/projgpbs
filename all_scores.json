@@ -318,8 +318,8 @@
 			},
 			"time": {
 				"status": "Not Started",
-				"starting_at": 1712270297000,
-				"minute": 90,
+				"starting_at": 1712234951,
+				"minute": 88,
 				"second": null,
 				"added_time": 4,
 				"extra_minute": null,
