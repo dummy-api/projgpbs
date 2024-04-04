@@ -24,7 +24,7 @@
         "country_name": "England"
       },
       "live_score_url": "https://mygptest.grameenphone.com/sports/livescores/soccer/2024-02-22/f1.json",
-      "watch_live_url": "https://mygp.grameenphone.com/mygp/partnerservice?slug=rabbithole&url=https://apix.rabbitholebd.com/v4/thirdparty/mygp/25/big-bash-league-2023-24?type=channel",
+      "watch_live_url": null,
       "is_force": true
     },
     {
