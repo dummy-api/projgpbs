@@ -317,15 +317,15 @@
 				"ps_score": null
 			},
 			"time": {
-				"status": "Half-Time",
-				"starting_at": 1710383401,
+				"status": "Not Started",
+				"starting_at": 1712270297000,
 				"minute": 90,
 				"second": null,
 				"added_time": 4,
 				"extra_minute": null,
 				"injury_time": null
 			},
-			"status": "Half-Time",
+			"status": "Not Started",
 			"goals": [
 				{
 					"team_id": "476",
