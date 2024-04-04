@@ -325,7 +325,7 @@
 				"extra_minute": null,
 				"injury_time": null
 			},
-			"status": "live",
+			"status": "Half-Time",
 			"goals": [
 				{
 					"team_id": "476",
