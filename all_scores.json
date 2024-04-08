@@ -488,7 +488,7 @@
 				{
 					"team_id": "18",
 					"player_id": 151014,
-					"player_name": "Abderrazak Hamdallah",
+					"player_name": "Hamdallah",
 					"minute": 8,
 					"type": "goal",
 					"player_assist_name": "Fawaz Al-Sagour",
@@ -513,7 +513,7 @@
 					"extra_minute": null
 				}
 			],
-			"note": "Romarinho has scored a goal at 87 minute!"
+			"note": "OK > Romarinho has scored a goal at 87 minute!"
 		},
 		"fixture_4": {
 			"id": 4,
